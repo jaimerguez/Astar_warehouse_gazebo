@@ -9,3 +9,4 @@ El Algoritmo A* es una de las estrategias más conocidas, se clasifica dentro de
 En esta práctica usaremos este algoritmo para poder encontrar la solución de transportar pallets de un punto a otro de la manera más óptima.
 
 
+<p align="center"><img src="https://github.com/jaimerguez/TakeInformation-From-TrafficVideo/blob/main/output_example/fluxo.jpg" width="50%"></p>
